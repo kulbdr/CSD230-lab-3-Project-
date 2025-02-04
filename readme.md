@@ -39,4 +39,4 @@ To set up the project locally, follow these steps:
 Once the application is running, navigate to `http://localhost:5173/` to access the HealTech homepage. From there, users can explore AI health insights, custom workouts, and telehealth services.
 
 ## Contribution
-Contributions are welcome! Each of our group members are planning to contribute each of their parts.
+Contributions are welcome! Each of our group members contributed their part in this project by their own and took some refernces from chatGPT.
